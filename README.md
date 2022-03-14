@@ -1,4 +1,6 @@
-It seems that all documentation and information, or any traces of this printer existing, have been getting purged from the internet. This is an archived version of the original Tevo (now known as Homers3D) repo, last updated by them on [March 21, 2019](https://github.com/Homers3D/Tevo-Flash/commit/7e24371cc1dde4f2631f8f89d1f4a2798fc264eb). I have made no changes to it, this is purely for the sake of preservation, please fork as you see fit.
+It seems that all documentation and information, or any traces of this printer existing, have been getting purged from the internet. This is an archived version of the original Tevo (rebranded as Homers3D, and now to TevoUP) repo, last updated by them on [March 21, 2019](https://github.com/Homers3D/Tevo-Flash/commit/7e24371cc1dde4f2631f8f89d1f4a2798fc264eb). 
+
+**I have made no changes to the original repo except** to also upload a PDF copy of the user manual which seems to have also been removed from the internet. This is purely for the sake of preservation, please fork as you see fit. Note that [the link in the About section](https://www.tevo.cn/products/3d-printers/tevo-flash/) 404's, I have checked Wayback Machine, Google, Bing, Yandex, Archive.is, Baidu, Yahoo, and 360 Search but sadly none of them had archived the page -- if you have a copy please contact me.
 
 ---
 
