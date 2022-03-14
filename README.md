@@ -1,3 +1,7 @@
+It seems that all documentation and information, or any traces of this printer existing, have been getting purged from the internet. This is an archived version of the original Tevo (now known as Homers3D) repo, last updated by them on [March 21, 2019](https://github.com/Homers3D/Tevo-Flash/commit/7e24371cc1dde4f2631f8f89d1f4a2798fc264eb). I have made no changes to it, this is purely for the sake of preservation, please fork as you see fit.
+
+---
+
 ![tevo3d](img/tevo-flash-banner-01.jpg)
 # Tevo Flash 3D Printer
 
